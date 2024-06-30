@@ -1,0 +1,7 @@
+faiss-cpu>=1.7.0
+sentence-transformers>=2.0.0
+groq
+torch
+transformers
+huggingface_hub
+streamlit
