@@ -1,3 +1,13 @@
+---
+title: FASHIO
+emoji: 🎩
+colorFrom: purple
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.36.0
+app_file: python main.py
+pinned: false
+---
 
 # FASHIO 
 
